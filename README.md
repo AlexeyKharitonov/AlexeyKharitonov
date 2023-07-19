@@ -1,10 +1,10 @@
 # Привет!
 
 ## 📞 Contact me
-<a href="https://t.me/BulatSRC">
+<a href="https://t.me/WeST_024">
   <img align="left" alt="My Telegram" width="35px" src="https://raw.githubusercontent.com/BulatCC/BulatCC/main/img/icon/icon-telegram.svg" />
 </a>
-<a href="mailto:bulatsrc@gmail.com">
+<a href="alexeywest024@list.ru">
   <img align="left" alt="My e-mail" width="35px" src="https://raw.githubusercontent.com/BulatCC/BulatCC/main/img/icon/icon-email.svg" />
 </a>
 
