@@ -1,6 +1,16 @@
 ### Hi there 👋
  🔭 I’m currently working on ...
 
+ 𝘏𝘛𝘔𝘓5, 𝘊𝘚𝘚3, 𝘑𝘢𝘷𝘢𝘚𝘤𝘳𝘪𝘱𝘵 𝘌𝘚6
+𝘙𝘦𝘢𝘤𝘵, 𝘛𝘺𝘱𝘦𝘚𝘤𝘳𝘪𝘱𝘵
+𝘙𝘦𝘢𝘤𝘵 𝘙𝘦𝘥𝘶𝘹
+𝘙𝘦𝘢𝘤𝘵 𝘳𝘰𝘶𝘵𝘦𝘳 𝘥𝘰𝘮 𝘷6
+𝘞𝘦𝘣𝘱𝘢𝘤𝘬
+𝘙𝘦𝘥𝘶𝘹-𝘵𝘰𝘰𝘭𝘬𝘪𝘵
+𝘗𝘰𝘴𝘵𝘮𝘢𝘯
+𝘔𝘰𝘯𝘨𝘰𝘋𝘉
+𝘌𝘹𝘱𝘳𝘦𝘴𝘴𝘑𝘚, 𝘕𝘰𝘥𝘦𝘑𝘚, 𝘔𝘰𝘯𝘨𝘰𝘰𝘴𝘦
+
 <!--
 **AlexeyKharitonov/AlexeyKharitonov** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
