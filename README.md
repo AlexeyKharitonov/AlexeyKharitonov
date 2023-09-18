@@ -4,7 +4,7 @@
 <a href="https://t.me/WeST_024">
   <img align="left" alt="My Telegram" width="35px" src="https://raw.githubusercontent.com/BulatCC/BulatCC/main/img/icon/icon-telegram.svg" />
 </a>
-<a href="alexeywest024@list.ru">
+<a href="mailto:alexeywest024@list.ru?subject=Запрос по поводу резюме&body=Здравствуйте! Я по поводу резюме.">
   <img align="left" alt="My e-mail" width="35px" src="https://raw.githubusercontent.com/BulatCC/BulatCC/main/img/icon/icon-email.svg" />
 </a>
 
