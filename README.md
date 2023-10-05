@@ -1,4 +1,4 @@
-# Всем привет! Меня зовут Алексей. Я frontend-разработчик💻
+# Всем привет! Меня зовут Алексей. Я frontend-разработчик<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30px">
   Мой сайт-портфолио: https://alexeykharitonov-portfolio.ru/
 
 ## 📞 Contact me
