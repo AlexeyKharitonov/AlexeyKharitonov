@@ -12,6 +12,8 @@
   <img src="https://cdn-icons-png.flaticon.com/512/2504/2504799.png" width="40" height="40" alt="linkedin" />
 </a>
 
+ </br>
+
 ## 🛠 Мои 'Хардс скиллс':
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg" title="git" alt="git" width="40" height="40"/>&nbsp
