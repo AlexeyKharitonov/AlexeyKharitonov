@@ -4,12 +4,12 @@
 
   Мой сайт-портфолио: https://alexeykharitonov-portfolio.ru/
 
-## 📞 Contact me
-<a href="https://t.me/WeST_024">
-  <img align="left" alt="My Telegram" width="35px" src="https://raw.githubusercontent.com/BulatCC/BulatCC/main/img/icon/icon-telegram.svg" />
+## 📞 Связаться:
+<a href="https://t.me/WeST_024" target="_blank">
+  <img src="https://cdn-icons-png.flaticon.com/512/2111/2111646.png" width="40" height="40" alt="telegram group" />
 </a>
-<a href="mailto:alexeywest024@list.ru?subject=Запрос по поводу резюме&body=Здравствуйте! Я по поводу резюме.">
-  <img align="left" alt="My e-mail" width="35px" src="https://raw.githubusercontent.com/BulatCC/BulatCC/main/img/icon/icon-email.svg" />
+<a href="https://vk.com/id85551936" target="_blank">
+  <img src="https://cdn-icons-png.flaticon.com/512/145/145813.png" width="40" height="40" alt="VK Badge"/>
 </a>
 <a href="https://www.linkedin.com/in/%D0%B0%D0%BB%D0%B5%D0%BA%D1%81%D0%B5%D0%B9-%D1%85%D0%B0%D1%80%D0%B8%D1%82%D0%BE%D0%BD%D0%BE%D0%B2-868831291/" target="_blank">
   <img src="https://cdn-icons-png.flaticon.com/512/2504/2504799.png" width="40" height="40" alt="linkedin" />
