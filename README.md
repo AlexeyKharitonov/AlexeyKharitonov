@@ -1,5 +1,5 @@
 # Всем привет! Меня зовут Алексей. Я frontend-разработчик
-![icon](https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif)
+<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30px">
 
 ## 📞 Связаться:
 <a href="https://t.me/WeST_024" target="_blank">
